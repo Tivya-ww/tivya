@@ -3,6 +3,4 @@ beyounce
 colbert 
 Miss ko
 =======
-bihai
-eyounce
 >>>>>>> trail-performance
